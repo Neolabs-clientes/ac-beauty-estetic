@@ -1,0 +1,355 @@
+{
+ "types": [
+  "beauty_salon",
+  "point_of_interest",
+  "service",
+  "establishment"
+ ],
+ "internationalPhoneNumber": "+34 610 68 26 80",
+ "formattedAddress": "C. De La Cruz, 4, 28850 Torrejón de Ardoz, Madrid, España",
+ "rating": 5,
+ "googleMapsUri": "https://maps.google.com/?cid=11812841609143616153&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 22,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 22,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 22,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 22,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 22,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: Cerrado",
+   "martes: 10:00–22:00",
+   "miércoles: 10:00–22:00",
+   "jueves: 10:00–22:00",
+   "viernes: 10:00–22:00",
+   "sábado: 10:00–22:00",
+   "domingo: 9:00–17:00"
+  ],
+  "nextCloseTime": "2026-10-03T20:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 25,
+ "displayName": {
+  "text": "AC Beauty Estetic Torrejón de Ardoz, madrid",
+  "languageCode": "es"
+ },
+ "shortFormattedAddress": "C. De La Cruz, 4, Torrejón de Ardoz",
+ "reviews": [
+  {
+   "name": "places/ChIJTVF4eqA3Qg0RmYL1PNuk76M/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pocVVWODVVbkpJU1VwcmVuQnVlRWt6UW5wS1lsRRAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "Después de varias limpiezas, me echo el tratamiento con vitamina C que es una pasada  ,una piel y un brillo espectacular,un tono uniforme ,me ha encantado! Un tratamiento que recomiendo a todo el mundo! El salón el trato  de 10 también!muy recomendable!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Después de varias limpiezas, me echo el tratamiento con vitamina C que es una pasada  ,una piel y un brillo espectacular,un tono uniforme ,me ha encantado! Un tratamiento que recomiendo a todo el mundo! El salón el trato  de 10 también!muy recomendable!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Simona Stroe",
+    "uri": "https://www.google.com/maps/contrib/100714693692537665819/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZgdnHEnYSm_ojjLvbrm3scZsOlzTjq_jcnAIkxmxvL3zQBqOH=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-30T13:29:26.019068218Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pocVVWODVVbkpJU1VwcmVuQnVlRWt6UW5wS1lsRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pocVVWODVVbkpJU1VwcmVuQnVlRWt6UW5wS1lsRRAB!2m1!1s0xd4237a07a78514d:0xa3efa4db3cf58299"
+  },
+  {
+   "name": "places/ChIJTVF4eqA3Qg0RmYL1PNuk76M/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kSlh6WnBla2g0YlRsQmFGTkdYMjh0TjBsVVNXYxAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "Maravilloso trato y profesionalidad. Sin duda se lo recomiendo a todo el mundo. Yo voy desde Villalba hasta allí por Ameirt. Para mí la mejor!!!!!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Maravilloso trato y profesionalidad. Sin duda se lo recomiendo a todo el mundo. Yo voy desde Villalba hasta allí por Ameirt. Para mí la mejor!!!!!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Beatriz Sacristán",
+    "uri": "https://www.google.com/maps/contrib/109925958328280276363/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocImGh4Z1aRWFLDEBw9VWz0N0cRpPOOvBjTiDNusuiFPB71nDQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-19T13:16:11.638965222Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kSlh6WnBla2g0YlRsQmFGTkdYMjh0TjBsVVNXYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kSlh6WnBla2g0YlRsQmFGTkdYMjh0TjBsVVNXYxAB!2m1!1s0xd4237a07a78514d:0xa3efa4db3cf58299"
+  },
+  {
+   "name": "places/ChIJTVF4eqA3Qg0RmYL1PNuk76M/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WYWVURkVOWEV0VW0weGQzSmxPVUZRT1hKVVQyYxAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "Me hice una limpieza facial y fue un Excelente servicio, excelente trato y profesionalismo, las mejores manos.\n20/10 super recomendado.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Me hice una limpieza facial y fue un Excelente servicio, excelente trato y profesionalismo, las mejores manos.\n20/10 super recomendado.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "brandon paz",
+    "uri": "https://www.google.com/maps/contrib/110793034746511354548/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVH5UBTFHfydUsvFX-AlcEmJgplkd3AnqlHCKTlMtl0W7CzULoxvQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-19T13:18:34.791236232Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WYWVURkVOWEV0VW0weGQzSmxPVUZRT1hKVVQyYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WYWVURkVOWEV0VW0weGQzSmxPVUZRT1hKVVQyYxAB!2m1!1s0xd4237a07a78514d:0xa3efa4db3cf58299"
+  },
+  {
+   "name": "places/ChIJTVF4eqA3Qg0RmYL1PNuk76M/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GeVR5MXFVV2xRZGxFeGEyZzFZbkpITjBZNFltYxAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "Fui el día de hoy la verdad me encantó todo muy buen servicio lugar ,la dueña 100% recomendada la verdad regresaría sin dudarlo visitenla la atención de amery excelente",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Fui el día de hoy la verdad me encantó todo muy buen servicio lugar ,la dueña 100% recomendada la verdad regresaría sin dudarlo visitenla la atención de amery excelente",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Alejandra Cardona",
+    "uri": "https://www.google.com/maps/contrib/105828358368948890677/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJNuxuBfTRyjuaAtxviKvNkoY33ddtRtPHZq3ralgT8SdVxdA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-21T00:35:32.136150270Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GeVR5MXFVV2xRZGxFeGEyZzFZbkpITjBZNFltYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GeVR5MXFVV2xRZGxFeGEyZzFZbkpITjBZNFltYxAB!2m1!1s0xd4237a07a78514d:0xa3efa4db3cf58299"
+  },
+  {
+   "name": "places/ChIJTVF4eqA3Qg0RmYL1PNuk76M/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oME9YZzBXVFpRVW05ME15MXpiR1l5YlcxRVRHYxAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "Me ha encantado el trato, muy personalizado eso demuestra la profesionalidad. Y el trabajo impecable estoy 100x100 satisfecha, lo recomendaré a todas mis amigas.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Me ha encantado el trato, muy personalizado eso demuestra la profesionalidad. Y el trabajo impecable estoy 100x100 satisfecha, lo recomendaré a todas mis amigas.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Vicky Ruiz",
+    "uri": "https://www.google.com/maps/contrib/117904493846909064933/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJBktwVu-0MlSYjv2KqYqHVibCOinjVpncpcezaK7sJgavXjs8=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-19T12:38:19.508800910Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oME9YZzBXVFpRVW05ME15MXpiR1l5YlcxRVRHYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oME9YZzBXVFpRVW05ME15MXpiR1l5YlcxRVRHYxAB!2m1!1s0xd4237a07a78514d:0xa3efa4db3cf58299"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJTVF4eqA3Qg0RmYL1PNuk76M/photos/Aa-ngMbqy-rHYyXn6Nd6VkNHENW7VaaXx4sdETXorwovOJnDZDmggTRFvyhtGVzNdY-JDsmqWHRbKtsyfa_TibiJy4Hs3ssECLwW-iruyyEqPVDEWy6maTThLrlvX4n6qX_O1uaacolSTSYYKYmIPwaeGzyTAyJKMsKIQ6lZcjg_wzQ_JlLjUam_jFnf9yAD_6W2DK7tHXUlARQfAqIHQCHSjWww8t3TsaptWQnXfDr7EWK-BDKEanVopflsnve1lXzjCLhUpVlWQ6fYlbFojvfjOroTR1jzh5-Pvyv6JkfrPhi5aC9iGU8S6CcPZUl2AYkgwZfqdZiV_GYJACyISmik2EwbS-CBXDXrAUTQ6qQZbtbnZb7UmlUMkHcnMIXDLFMI_3pCKswiiSecH_9r5fX7A7awJXa-Sl8vX1JBDfkc6V0KYWbwCslTqGSi1yJj",
+   "widthPx": 4032,
+   "heightPx": 3024,
+   "authorAttributions": [
+    {
+     "displayName": "AC Beauty Estetic Torrejón de Ardoz, madrid",
+     "uri": "https://maps.google.com/maps/contrib/107344808132714805302",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXe5MKVv14zOlavhwobhHegW0Dd57sSK7qhoMAjB9FTNnOAzk8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhD-fXtUYl7hkBWrRPe1U6wu&t=27&cb_client=maps_api_places.places_api&hl=es",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhD-fXtUYl7hkBWrRPe1U6wu!2e10!4m2!3m1!1s0xd4237a07a78514d:0xa3efa4db3cf58299"
+  },
+  {
+   "name": "places/ChIJTVF4eqA3Qg0RmYL1PNuk76M/photos/Aa-ngMYYTFoRMhotVlkWUWzCHiDbKmMif1_JcgMDlSBPnBCACQLSM730O6ogmVDGgGXjvfU2Gl5HVfTXrdk7M0CmiWnG3E7O9k8H2hX6BAhgeId4Bv4MLCNB4YmR0vU1aKxeeIKZ8OVIpAl41Z1G4dxZ7yYFYUskMGMZMyffGtyLr7rAGI80hAfW-i1KLaHMnSY_dM1jKcTMesChIwOCuYA3IHa-txYP2gEm0laorA3BchtUphgGKLnizrFwrr_2BuTsnqliPh1CD87pvWPlE95Om81i2p-EZjV1eu62rHTEyjm4XfqmPtjS3RAWWx8b7JJYl5mzJ-mAvt8RR_7B9GF4-BecrPmZmrKc9eTYo5EzWQsAeXb61fQ5jqkfAdffumrxMfqoYAWP41OhNWu1SRIQVPw1qDnnuDIy9FULRaqGKI4uoN8tu67WPNTygfGF",
+   "widthPx": 1284,
+   "heightPx": 1714,
+   "authorAttributions": [
+    {
+     "displayName": "AC Beauty Estetic Torrejón de Ardoz, madrid",
+     "uri": "https://maps.google.com/maps/contrib/107344808132714805302",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXe5MKVv14zOlavhwobhHegW0Dd57sSK7qhoMAjB9FTNnOAzk8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAyoZhLeIYjNDOwbCeAa2W2&t=27&cb_client=maps_api_places.places_api&hl=es",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAyoZhLeIYjNDOwbCeAa2W2!2e10!4m2!3m1!1s0xd4237a07a78514d:0xa3efa4db3cf58299"
+  },
+  {
+   "name": "places/ChIJTVF4eqA3Qg0RmYL1PNuk76M/photos/Aa-ngMZmLw44xhH-B6lVJ-8w3JdRQei5uoXD_qqOQ4IBmaFjl1bMge3RXIGkXzqkDh3b9yFzrEEvQ_g2ygClUFWNVdKGuOOZb1I8MArElIquzUZbCKwxom3kgUqxEkECjKGbaha4RziM2j_IN0HEla2P89XKoPxuUhn7GFXLmn2dNAUQOGhXIUvIcv7TW7dic5uyjI1lIQcGcCMsTDgc419IO5qCABXXv5fT6Tu2Xx8ZaTltcC9RXLHcxaA534IHaB4TXthR2fpVO-VycqggBXw2FNK6oIUaUGpIjHfw25lAuKohFKB1mpww3-qtyYec4JW3MHHuVS-FwFbVZsGwRMPvKiFgvqPWPMTqFzbXqSrWIMtmS7vL_4yB91gI307EpRcZuhDWCeVT1AWms-W2R727l2Yb19OoImQk1BarstxyNG12qwe0qS9wieUeLD9jBQ",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "AC Beauty Estetic Torrejón de Ardoz, madrid",
+     "uri": "https://maps.google.com/maps/contrib/107344808132714805302",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXe5MKVv14zOlavhwobhHegW0Dd57sSK7qhoMAjB9FTNnOAzk8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBQzAbPUWcI2lB5sj-rqyGT&t=27&cb_client=maps_api_places.places_api&hl=es",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBQzAbPUWcI2lB5sj-rqyGT!2e10!4m2!3m1!1s0xd4237a07a78514d:0xa3efa4db3cf58299"
+  },
+  {
+   "name": "places/ChIJTVF4eqA3Qg0RmYL1PNuk76M/photos/Aa-ngMZMUYLx1DLWo-VTnCH6ngAk4Qi-MU6P2494M02I4yAJs0rBY9PVN2MON3VAul3YvR6BmNZrF9Fs01SrDlEkELlJPJjDW8u780iN8WF0OtsAZ7owaq1VyFNNdqsTqFkGPviY98sQS65ubgP_lqJSaBEHNQvEgzvRmOqL3XctvtZehat4HGa8SBodkwqMX8SG7llO1xVk5m2wMDVcho1wCBCLE_5Oo-yedTdvmfczwUOrKsiO-g9nYr-rB_ZE6dAGduXt665LBCwVNNkIgE3l-8fX9dAEXJOcEqZuKBdcbr-UiCiwAYBK_pKBc888rZDB71ipnwjJYkedovmoh7WGb2_ZwfqtKFyhEKQG3ypkw_31_hhxiZKt41zQaWy6bfCOdj7EqdtijcJlf2S8Zq5ou1-inuCdK_uALM1jy7SKVdeScqqZmGmiC7D5wy7ZXg",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "AC Beauty Estetic Torrejón de Ardoz, madrid",
+     "uri": "https://maps.google.com/maps/contrib/107344808132714805302",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXe5MKVv14zOlavhwobhHegW0Dd57sSK7qhoMAjB9FTNnOAzk8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhADydERBDgdHGfjZOYABKTh&t=27&cb_client=maps_api_places.places_api&hl=es",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADydERBDgdHGfjZOYABKTh!2e10!4m2!3m1!1s0xd4237a07a78514d:0xa3efa4db3cf58299"
+  },
+  {
+   "name": "places/ChIJTVF4eqA3Qg0RmYL1PNuk76M/photos/Aa-ngMY-mcb4YAwiwdS-AvsNH2UchUZOiJbT5Gqi85Cy5tFrPuKDkhFWrNcK-25at0phGj96Xn3UuMjD2UTe6mPl54IlmU80rLvr_a-97zxbNoaeVwoxhGh9gWOGgB9-oeRuIxAe5BRx1Wj_TZDF1lNAn-n9t46Z_fcPmzmpy5Jieg9Deyl2IedII-ZBYjckUM6xR16sm0JHiqt5nfG1QyJjSX7gOKcbeaUp_G1xKmsISY31WkRe42G1VlQqyGVpGuWEJKe4mFmketZbjKZLgVXB8q8vUXRpMG2U94ciKHgQ3Nk957z00Uh-SbGyBuykxU29xZ7sWlmEFbakxbLBUT6tFt92GFffjsZvE1DOlPrOzRLGrbGgueuLSGl_dWnKgL2RyzlkSVPUCh3QAHVBCkSIC3HS7MndhVXUjfy-Iur6Xxrn8KCOzjagUobZPnoSuA",
+   "widthPx": 4032,
+   "heightPx": 3024,
+   "authorAttributions": [
+    {
+     "displayName": "AC Beauty Estetic Torrejón de Ardoz, madrid",
+     "uri": "https://maps.google.com/maps/contrib/107344808132714805302",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXe5MKVv14zOlavhwobhHegW0Dd57sSK7qhoMAjB9FTNnOAzk8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhARw8uV28b6NxBTZpr60zwn&t=27&cb_client=maps_api_places.places_api&hl=es",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhARw8uV28b6NxBTZpr60zwn!2e10!4m2!3m1!1s0xd4237a07a78514d:0xa3efa4db3cf58299"
+  },
+  {
+   "name": "places/ChIJTVF4eqA3Qg0RmYL1PNuk76M/photos/Aa-ngMZUl85fgXeT3KhxUGZ7BuKlNry9ILOhHZZnnB_ul7hcW8-xh7YqZkANthpEW3SHZZOSoxF0Bj5_a9C1JE_cl2KHoeaMG-rXrYjS4gmRqopkmfxnyWYsnP5qk3dn3lSvLN3TRwRUPPr_x4mczyaigOXN_O1a8K1wOmkagwAuzpWeBSFjWCq3jRrm-S8xM29Udm-DOfY55ZCEtjB7kjrIkWAq0HaM7QqSqiwKa8KV9yiAxPkoPmFR9__dh6m1ylpeVLSTP2eMk1ukED8w2eLKAjnINJaq8DwEQSGLomcMrNi2oH9za3lnjyr5TLeZdQmNcenZXQUFJRSeHqdUMhArG9n9kkdeHa3bY1XZDZ6cACuVBW0IOc80dPdwxcX-nA8I7e0AKfCCyU7GD-cS6_mnfCY6EogP-QrpUjtq9BKVxbhdteyUv0LsWTJLlsvwQg",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "AC Beauty Estetic Torrejón de Ardoz, madrid",
+     "uri": "https://maps.google.com/maps/contrib/107344808132714805302",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXe5MKVv14zOlavhwobhHegW0Dd57sSK7qhoMAjB9FTNnOAzk8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhC1kC7eyILZ7nOdVBYYns00&t=27&cb_client=maps_api_places.places_api&hl=es",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC1kC7eyILZ7nOdVBYYns00!2e10!4m2!3m1!1s0xd4237a07a78514d:0xa3efa4db3cf58299"
+  },
+  {
+   "name": "places/ChIJTVF4eqA3Qg0RmYL1PNuk76M/photos/Aa-ngMYx6ZF88K6RfZpx0RDlIw8IPWqlDRC5aKQ4uHs9DlVQtVXPyUTNW7eOFRSZqlao_XmgLCyVOoQMBXzGK9g4Hw3lt7ye1oRKkO8z8PJ58qnbfjISlUBQ-ScSYqMbj8_PJXjm6JVFEx--a1lKwONXZUnFz_Yi2w2e0bnYYfuu6h6H30KuC-KhcIvURfVJVqfgqLLIbNlEv51M94ndLigUfNqY2NbVtXVDIH3EsFmHVwTePKEtEfsYbtmhtt8C9-sI_c4FfoAoU9CY9vKn0HTUEIO4r0YAWf3VsqamcRa_Ew4c6ZMPp1vnSRwcEZGY8_LB7VykQa1o-QSvUKNdOf1T7zUdWdt2VHwrsWF4mXS7SxeWLMaqzfYcYdbSPwL1XOL1p3BzP4Ftw0gb_9N0EPZXUK1FzhSdBGU0SDImNgrbfVnAWGN8DA128sv4eaABqQ",
+   "widthPx": 1013,
+   "heightPx": 1267,
+   "authorAttributions": [
+    {
+     "displayName": "AC Beauty Estetic Torrejón de Ardoz, madrid",
+     "uri": "https://maps.google.com/maps/contrib/107344808132714805302",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXe5MKVv14zOlavhwobhHegW0Dd57sSK7qhoMAjB9FTNnOAzk8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhADycKzBSQLDGfjbMgABd3l&t=27&cb_client=maps_api_places.places_api&hl=es",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzBSQLDGfjbMgABd3l!2e10!4m2!3m1!1s0xd4237a07a78514d:0xa3efa4db3cf58299"
+  },
+  {
+   "name": "places/ChIJTVF4eqA3Qg0RmYL1PNuk76M/photos/Aa-ngMbk02InK8FqFBs7Z6Wnrvlt2ptdknobduUYtdxcVagrch4F4ROJbtWCAWqrGIh84lEy1_UF3ZQTQTExg6pKE63G_it7dhDavT_TxMcbz321gDAvO3aUaE27tXO58lf6OFASnTTtD2gYEh1iaPdoJfo1ASgRAT9EkQDSTjkWjD48ygeI91I_1zdmDtqxdbhC_V9vEOV0jK9RJARv-xfxLtyOq5jRuNldOVv_Go7a_XOF1sDgF55s_dCTVrkdU9MlWTYQOFAASuScDg7d0LZO9S4ooLYiGq57iGoM1LMgW9yfxlMGROD_Rk7dAdR_wztMrT00F-8H01K85yPau4CqIjtgumIbc4LLSd7DsNwR8-hxfmFYQAOGlgSFnSevvtEHAPovBkQveukhID1Sp8Wbqpr-mQRUp_l_8OBvugTbXzujPgsDZ06zA0sGqmUIQQ",
+   "widthPx": 1013,
+   "heightPx": 1267,
+   "authorAttributions": [
+    {
+     "displayName": "AC Beauty Estetic Torrejón de Ardoz, madrid",
+     "uri": "https://maps.google.com/maps/contrib/107344808132714805302",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXe5MKVv14zOlavhwobhHegW0Dd57sSK7qhoMAjB9FTNnOAzk8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhADycKzBSQLDGfjZN0ADry6&t=27&cb_client=maps_api_places.places_api&hl=es",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzBSQLDGfjZN0ADry6!2e10!4m2!3m1!1s0xd4237a07a78514d:0xa3efa4db3cf58299"
+  },
+  {
+   "name": "places/ChIJTVF4eqA3Qg0RmYL1PNuk76M/photos/Aa-ngMZGmouG1VgcM4VfWRl48GPPbLk5Jg_k7ynKpncc-6I2ZtdWRQl3LWgzw5fC0xYS1riySKAtscZ8jzySVyjy1Bewr7nL0bFWRsfqkEVps7ku86S6TE2L2I1kwPxBacA-KTNUM_OnxyfYYCX7c0eegMfsAa6DpRVqo29QTr_I-r89Nya2DwkDj9p0HDWntPstwSuWLxlvH_YHAG3rNx1sGzprrdJweWiOzNkA0lELzaHmmylpF3fn47wgw6trvCyAXrWi1u5GbdMVEXWF1I0uIvu1Kn5ZrtN__HAxsmpCetOSefi06-hERt2fFzlPszfthrVtGrzMV7HI5UvApDYrzoSFeD4pUohOWZM9qxagdBvSB6ptGuLNIk3191kB7LXl6bhsFI3e-d1whW2RLTDWe7F96NGAj_CRebsUsNL7DTsKWpFND2vvEOevTmoFcw",
+   "widthPx": 940,
+   "heightPx": 530,
+   "authorAttributions": [
+    {
+     "displayName": "AC Beauty Estetic Torrejón de Ardoz, madrid",
+     "uri": "https://maps.google.com/maps/contrib/107344808132714805302",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXe5MKVv14zOlavhwobhHegW0Dd57sSK7qhoMAjB9FTNnOAzk8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhADycKzBSQLDGfjZwwABH8R&t=27&cb_client=maps_api_places.places_api&hl=es",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzBSQLDGfjZwwABH8R!2e10!4m2!3m1!1s0xd4237a07a78514d:0xa3efa4db3cf58299"
+  },
+  {
+   "name": "places/ChIJTVF4eqA3Qg0RmYL1PNuk76M/photos/Aa-ngMa0SeSabyYc0DNN6VypxTQeEZOxQGCxGl9yBQRmZBi8NF1SReD2awpV_3ainzA_MgtSBNsoJQmTMEfIw0uPZ4GptJi2_b3QTtBv--_mbaxhvoQPuo3OvDimXpwhcsgz6zB0H0erIZXkM1V5WX_5_ua_VVzmXzzTAmgEp1nQi5TDM04lszSQMEQCLgJYY3FQy1WgzjuH5dUwLOiHUwkrfU841Pra75OtDg4lw6RFB2BEtN4jB7jq9lBU9iKCw23AgnKEsIFp4XxUUy_VtBBiykgTTdtEn21Tjh5-JRNx_NrqMLR48MuQStqzVQJo_Kmczfr7-aR3RMG4mBnQie8N7xUcMUNl14LbEP3AExVKlPw3SVdD3Es4cDGpFg4YasYflY4DEzULkf-RG8hqiOYh_2CCn0EXz2x8kwF8StjjiAAqYXxtW_Nn42NK4AiaKw",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "AC Beauty Estetic Torrejón de Ardoz, madrid",
+     "uri": "https://maps.google.com/maps/contrib/107344808132714805302",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXe5MKVv14zOlavhwobhHegW0Dd57sSK7qhoMAjB9FTNnOAzk8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBCW0tZlpOOHFO61U5Zws_W&t=27&cb_client=maps_api_places.places_api&hl=es",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBCW0tZlpOOHFO61U5Zws_W!2e10!4m2!3m1!1s0xd4237a07a78514d:0xa3efa4db3cf58299"
+  }
+ ]
+}
